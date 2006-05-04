@@ -29,6 +29,9 @@ rm -rf $RPM_BUILD_ROOT
 %{__make} install \
 	BUILDROOT=$RPM_BUILD_ROOT
 
+# needed for Add Printer Wizard
+install i386/cups6.ppd $RPM_BUILD_ROOT%{_cupsdriverdir}
+
 %clean
 rm -rf $RPM_BUILD_ROOT
 
