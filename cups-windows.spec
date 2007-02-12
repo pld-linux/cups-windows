@@ -1,5 +1,5 @@
 Summary:	CUPS Windows driver
-Summary(pl):	Sterownik CUPS dla Windows
+Summary(pl.UTF-8):   Sterownik CUPS dla Windows
 Name:		cups-windows
 Version:	6.0
 Release:	1
@@ -23,12 +23,12 @@ adds support for the job-billing and page-label options.
 
 This is the Windows driver support package for use with Samba.
 
-%description -l pl
+%description -l pl.UTF-8
 Sterownik CUPS dla Windows to rozszerzenie dla sterownika PostScript
-z Windows 2000 obs³ugiwanego przez CUPS-a 1.2 i nowszego. Sterownik
-dodaje obs³ugê rozliczania zadañ i opcje etykietowania stron.
+z Windows 2000 obsÅ‚ugiwanego przez CUPS-a 1.2 i nowszego. Sterownik
+dodaje obsÅ‚ugÄ™ rozliczania zadaÅ„ i opcje etykietowania stron.
 
-Jest to pakiet wspieraj±cy sterownik windowsowy do u¿ywania z Samb±.
+Jest to pakiet wspierajÄ…cy sterownik windowsowy do uÅ¼ywania z SambÄ….
 
 %prep
 %setup -q
