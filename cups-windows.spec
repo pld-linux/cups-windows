@@ -1,5 +1,5 @@
 Summary:	CUPS Windows driver
-Summary(pl.UTF-8):   Sterownik CUPS dla Windows
+Summary(pl.UTF-8):	Sterownik CUPS dla Windows
 Name:		cups-windows
 Version:	6.0
 Release:	1
